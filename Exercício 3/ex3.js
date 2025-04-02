@@ -1,0 +1,1 @@
+var nasc = parseInt(prompt("Digite "))
